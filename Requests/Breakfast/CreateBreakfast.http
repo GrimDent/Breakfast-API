@@ -1,0 +1,16 @@
+POST http://localhost:5093/breakfasts
+Content-Type: application/json
+
+{
+    "name": "USA Breakfast",
+    "description": "generic USA brekfast",
+    "startDateTime": "2023-04-30T22:00:00",
+    "startDateTime": "2023-04-30T23:00:00",
+    "savory": [
+        "scrambled eggs",
+        "bacon"
+    ],
+    "sweets": [
+        "pancakes"
+    ]
+}

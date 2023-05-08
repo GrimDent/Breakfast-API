@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BreakfastAPI/1.0.0": {
+        "dependencies": {
+          "BreakfastAPI.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "BreakfastAPI.dll": {}
+        }
+      },
+      "BreakfastAPI.Contracts/1.0.0": {
+        "runtime": {
+          "BreakfastAPI.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BreakfastAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BreakfastAPI.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastAPI.Contracts", "BreakfastAPI.Contracts\BreakfastAPI.Contracts.csproj", "{A8A77CA9-5620-4965-894E-5A8AD281BF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastAPI", "BreakfastAPI\BreakfastAPI.csproj", "{9310D1FE-15A5-4E94-B302-56BA009DAE31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A77CA9-5620-4965-894E-5A8AD281BF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A77CA9-5620-4965-894E-5A8AD281BF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A77CA9-5620-4965-894E-5A8AD281BF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A77CA9-5620-4965-894E-5A8AD281BF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9310D1FE-15A5-4E94-B302-56BA009DAE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9310D1FE-15A5-4E94-B302-56BA009DAE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9310D1FE-15A5-4E94-B302-56BA009DAE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9310D1FE-15A5-4E94-B302-56BA009DAE31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

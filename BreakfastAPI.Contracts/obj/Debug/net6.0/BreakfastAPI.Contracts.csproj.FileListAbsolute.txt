@@ -1,0 +1,12 @@
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.csproj.AssemblyReference.cache
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.AssemblyInfoInputs.cache
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.AssemblyInfo.cs
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\bin\Debug\net6.0\BreakfastAPI.Contracts.deps.json
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\bin\Debug\net6.0\BreakfastAPI.Contracts.dll
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\bin\Debug\net6.0\BreakfastAPI.Contracts.pdb
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.dll
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\refint\BreakfastAPI.Contracts.dll
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\BreakfastAPI.Contracts.pdb
+C:\Users\hcse4\OneDrive\Dokumenty\C# projects\Breakfast API\BreakfastAPI.Contracts\obj\Debug\net6.0\ref\BreakfastAPI.Contracts.dll
